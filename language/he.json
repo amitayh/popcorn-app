@@ -17,8 +17,8 @@
   "downloading": "מוריד...",
   "UpgradeVersion": "עדכן את Popcorn Time",
   "UpgradeVersionDescription": "Popcorn Time %s זמין. כדאי לך להוריד עכשיו!",
-  "legalDisclaimer": "Popcorn Time downloads and seeds movies using torrents, which may not be legal in your country.",
-  "legalDisclaimerResponsible": "We are not responsible for any problems that may arise, so make sure you understand our Terms and Conditions before using the app.",
+  "legalDisclaimer": "Popcorn Time מוריד סרטים בעזרת טורנטים, שיתכן ולא חוקיים במדינתכם.",
+  "legalDisclaimerResponsible": "איננו אחראיים על כל בעיה שעלולה לקרות, לכן ודאו כי אתם מבינים את תנאי השימוש לפני הפעלת התוכנה.",
   "legalDisclaimerAccept": "אני מאשר",
   "legalDisclaimerCancel": "צא",
   "genres": {
